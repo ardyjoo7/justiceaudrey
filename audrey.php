@@ -66,3 +66,4 @@ class Adil
 }
 $a = new Adil();
 $a->support();
+?>
